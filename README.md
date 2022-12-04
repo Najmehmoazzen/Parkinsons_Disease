@@ -1,8 +1,7 @@
 # Parkinsons_Disease
 ## Detecting Parkinson's Disease using Machine Learning Algorithms
-By: Najmeh Moazzen
 
-Student ID: 961309
+By: Najmeh Moazzen
 
 Date: 1400.10.10
 
